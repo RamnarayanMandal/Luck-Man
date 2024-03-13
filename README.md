@@ -1,4 +1,4 @@
-# Luck-Man
+# Lucky-Man
 The Luck Man Project is a Java application developed using JDBC (Java Database Connectivity) to interact with a MySQL database. This project is designed to simulate a luck prediction system, where users can input their personal information and receive a prediction regarding their luck for a specified period.
 <br>
 <strong>Installation:</strong>
